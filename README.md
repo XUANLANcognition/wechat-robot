@@ -1,4 +1,4 @@
-# chat robot on wechat
+# Chat robot on wechat
 ## install dependence
 ```bash
 pip install -r requirement.txt
